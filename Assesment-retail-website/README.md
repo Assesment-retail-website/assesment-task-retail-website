@@ -27,7 +27,7 @@ After checking the git repository run the following maven command
 mvn clean install
 ```
 
-This should install all packages, run all unit tests
+This will install all packages, run all unit tests
 
 ## Starting
 
