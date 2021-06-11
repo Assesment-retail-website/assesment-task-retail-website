@@ -21,7 +21,7 @@ state what you will use to document your API, with an example sample request and
 
 ## Installing
 
-After checking out the git repo run the following maven command
+After checking the git repository run the following maven command
 
 ```bash
 mvn clean install
